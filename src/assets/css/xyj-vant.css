@@ -1,0 +1,35 @@
+.van-swipe__indicator--active {
+  background-color: #f8e58c!important;
+}
+.van-dialog__confirm, .van-dialog__confirm:active{
+  color: #f8e58c!important;
+}
+.van-toast--default{
+  z-index: 9999;
+  background: rgba(0, 0, 0, 0);
+}
+.van-loading--white circle {
+  stroke: #666;
+}
+.van-stepper__input{
+  line-height: 26px;
+}
+.van-submit-bar{
+  box-shadow: 0 0 0 1px #eee;
+}
+.van-address-list .van-icon-checked{
+  color: #FFC107!important
+}
+.van-address-list__add .van-icon-add{
+  color: #FFC107!important
+}
+.van-switch--on {
+  background-color: #f8e58c;
+}
+
+
+
+/* mintui picker */
+.picker-slot{
+  font-size:14px;
+}
